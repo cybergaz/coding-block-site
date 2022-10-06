@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
+
+body{
+    background-color: white;
+}
+
+header{
+    background-color: rgb(36, 13, 13);;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    color: white;
+    margin: 0, 0;
+    padding: 0 ,0; 
+}
+
+
+.logoicon img{
+    width: 8%;
+    height: auto;
+    
+}
+.logo{
+    padding: 0;
+    margin: 0;
+}
+.logotext{
+    margin-left: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-right: 17em;
+    font-family: Poppins;
+}
+.navbar{
+    font-size:20px;
+    font-family: Poppins;
+    padding-right: 30px;
+
+}
+
+.bookbtn{
+    font-size: 20px;
+    font-family: Poppins;
+    margin-left: 22em;
+    border: 3px solid #29d9d5;
+    padding: 14px;
+    border-radius: 30px;
+    cursor: grab;
+}
+.photos{
+    display:grid;
+    align-items: center;
+
+    
+}
+.photo img{
+    width: 20%;
+    border-radius: 12px;
+}
