@@ -111,11 +111,34 @@ header nav a:hover {
     transition-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
-#imagesection:hover i {
+/*#imagesection:hover i {
+    transform: scale(1.1);
+    transform: translate(-50%, -50%);
+}*/
+#mainimage1:hover i{
     transform: scale(1.1);
     transform: translate(-50%, -50%);
 }
-
+#mainimage2:hover i{
+    transform: scale(1.1);
+    transform: translate(-50%, -50%);
+}
+#mainimage3:hover i{
+    transform: scale(1.1);
+    transform: translate(-50%, -50%);
+}
+#mainimage4:hover i{
+    transform: scale(1.1);
+    transform: translate(-50%, -50%);
+}
+#mainimage5:hover i{
+    transform: scale(1.1);
+    transform: translate(-50%, -50%);
+}
+#mainimage6:hover i{
+    transform: scale(1.1);
+    transform: translate(-50%, -50%);
+}
 .bannerimage {
     padding: 3rem 2rem;
     text-align: center;
